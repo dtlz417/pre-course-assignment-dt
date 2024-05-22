@@ -4,7 +4,7 @@
   "description": "pre course assessment",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js"
   },
   "author": "derrick_tang@tech.gov.sg",
   "license": "ISC",
