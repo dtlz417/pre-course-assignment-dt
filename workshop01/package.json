@@ -1,0 +1,15 @@
+{
+  "name": "pre-course-assignment-dt",
+  "version": "1.0.0",
+  "description": "pre course assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "derrick_tang@tech.gov.sg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "hbs": "^4.2.0"
+  }
+}
